@@ -1,0 +1,18 @@
+#content div#MainContent h2 {
+    color: gray;
+}
+#content #MainContent>h2 {
+    color: blue;
+}
+body #content div[id="MainContent"] h2 {
+    color: green;
+}
+#main-content div.news-story h2 {
+    color: orange;
+}
+#MainContent [class="News"] h2{
+    color: red;
+}
+div#MainContent div.News h2.first{
+    color: yellow;
+}
